@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { staticApi as api } from '../services/staticApi';
 import BottomNavigation from '../components/BottomNavigation';
 
